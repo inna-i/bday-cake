@@ -1,0 +1,9 @@
+node/
+node_modules
+bower_components
+etc/
+coverage/
+dist/
+build/
+.parcel-cache/
+
